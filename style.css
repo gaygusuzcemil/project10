@@ -1,0 +1,15 @@
+/*h1 başlıklar font class1,color*/
+.baslik1{
+    font-size: 20px;
+
+}
+.baslik2{
+    color: brown;
+}
+.altbaslik1{
+    font-size: 45px;
+
+}
+.altbaslik2{
+    color: blue;
+}
